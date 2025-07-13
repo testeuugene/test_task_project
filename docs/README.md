@@ -34,7 +34,7 @@ CREATE TABLE weather (
 ```
 /
 ├── src/                  # Backend-приложение
-│   ├── main.py           # Основной код FastAPI
+│   ├── main.py           # Основной код Flask
 │   └── requirements.txt  # Зависимости
 ├── nginx/                # Конфигурация Nginx
 │   └── default.conf      
